@@ -10,6 +10,7 @@ Sequence diagrams are made through https://www.websequencediagrams.com/
 - [x] Exercise 0.2: CSS*
 - [x] Exercise 0.3: HTML forms*
 - [x] Exercise 0.4: new note
+
   ![exercise0.4](exercise0-4.png)
 
   [Alt Link](https://www.websequencediagrams.com/cgi-bin/cdraw?lz=bm90ZSBvdmVyIGJyb3dzZXI6ClVzZXIgaW5wdXRzIHNvbWUgdGV4dCBpbgpmb3JtIHRocm91Z2ggdGgAEgdib3gKYW5kIGNsaWNrcwATBSdTYXZlJyBidXR0b24KdGhhdCBzdWJtaXQAGQZmb3JtCmVuZCBub3RlCgBxBy0-c2VydmVyOiBIVFRQIFBPU1QgaHR0cHM6Ly9zdHVkaWVzLmNzLmhlbHNpbmtpLmZpL2V4YW1wbGVhcHAvbmV3X25vdGVzCgBABi0tPgCBSAgASgZVUkwgUmVkaXJlY3QgUmVzcG9ucwBkGEdFAE4tAF4ZTUwgY29kACBGbWFpbi5jcwCBTBQAEgkAH0lqAE4ZanMKCgCEIBMAhDUHIHN0YXJ0cyBleGVjdXRpbmcganMtAIF-BQCDfwVyZXF1ZXN0cyBKU09OIGRhdGEgZnJvbSAAg3MGIACECQoAglNFZGF0YS5qc29uAIQAE1t7IGNvbnRlbnQ6ICIAgyQFaXMgZWFzeSIsIGRhdGU6ICIyMDE5LTA1LTIzIiB9LCAuLi5dAIFeHQCBbgZlAIV7BmV2ZW50IGhhbmRsZXIAgXUIbmRlcnMAhW8FcyB0byBkaXNwbGF5AIYACQ&s=default)
