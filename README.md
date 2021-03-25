@@ -9,7 +9,7 @@ The course covers testing, configuration and environment management, and the use
 
 ## Homework Submission Checklist
 
-- [ ] part0
+- [x] part0
 - [ ] part1
 - [ ] part2
 - [ ] part3

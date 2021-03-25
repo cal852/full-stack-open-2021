@@ -2,9 +2,26 @@
 
 ## Task list
 
-- [x] Exercise 0.1
-- [x] Exercise 0.2
-- [x] Exercise 0.3
-- [ ] Exercise 0.4
-- [ ] Exercise 0.5
-- [ ] Exercise 0.6
+Sequence diagrams are made through https://www.websequencediagrams.com/
+
+*Reading assignment
+
+- [x] Exercise 0.1: HTML*
+- [x] Exercise 0.2: CSS*
+- [x] Exercise 0.3: HTML forms*
+- [x] Exercise 0.4: new note
+  ![exercise0.4](exercise0-4.png)
+
+  [Alt Link](https://www.websequencediagrams.com/cgi-bin/cdraw?lz=bm90ZSBvdmVyIGJyb3dzZXI6ClVzZXIgaW5wdXRzIHNvbWUgdGV4dCBpbgpmb3JtIHRocm91Z2ggdGgAEgdib3gKYW5kIGNsaWNrcwATBSdTYXZlJyBidXR0b24KdGhhdCBzdWJtaXQAGQZmb3JtCmVuZCBub3RlCgBxBy0-c2VydmVyOiBIVFRQIFBPU1QgaHR0cHM6Ly9zdHVkaWVzLmNzLmhlbHNpbmtpLmZpL2V4YW1wbGVhcHAvbmV3X25vdGVzCgBABi0tPgCBSAgASgZVUkwgUmVkaXJlY3QgUmVzcG9ucwBkGEdFAE4tAF4ZTUwgY29kACBGbWFpbi5jcwCBTBQAEgkAH0lqAE4ZanMKCgCEIBMAhDUHIHN0YXJ0cyBleGVjdXRpbmcganMtAIF-BQCDfwVyZXF1ZXN0cyBKU09OIGRhdGEgZnJvbSAAg3MGIACECQoAglNFZGF0YS5qc29uAIQAE1t7IGNvbnRlbnQ6ICIAgyQFaXMgZWFzeSIsIGRhdGU6ICIyMDE5LTA1LTIzIiB9LCAuLi5dAIFeHQCBbgZlAIV7BmV2ZW50IGhhbmRsZXIAgXUIbmRlcnMAhW8FcyB0byBkaXNwbGF5AIYACQ&s=default)
+
+- [x] Exercise 0.5: Single page app
+
+  ![exercise0.5](exercise0-5.png)
+
+  [Alt Link](https://www.websequencediagrams.com/cgi-bin/cdraw?lz=YnJvd3Nlci0-c2VydmVyOiBIVFRQIEdFVCBodHRwczovL3N0dWRpZXMuY3MuaGVsc2lua2kuZmkvZXhhbXBsZWFwcC9zcGEKADkGLS0-AEoHOiBIVE1MLWNvZGUKACBEbWFpbi5jc3MAVhMAEgkAgQVHLmoAUhQAEgcKbm90ZSBvdmVyIACBYggAgVgIIHN0YXJ0cyBleGVjdXRpbmcganMAgXsGdGhhdCByZXF1ZXN0cyBKU09OIGRhdGEgZnJvbSAAgnMGIAplbmQgbm90ZQoAgWtFZGF0YS5qc29uAIMHE1t7IGNvbnRlbnQ6ICJIVE1MIGlzIGVhc3kiLCBkYXRlOiAiMjAxOS0wNS0yMyIgfSwgLi4uXQCBXh0AgW4GZXMgdGhlIGV2ZW50IGhhbmRsZXIAgXUIbmRlcnMAgVwFcyB0byBkaXNwbGF5IGEALQYKZWxlbWVudHMgYXJlIGNyZWF0ZWQgdGhyb3VnaCBKYXZhU2NyaXB0AIIdCQ&s=default)
+
+- [x] Exercise 0.6: New note
+
+  ![exercise0.6](exercise0-6.png)
+
+  [Alt Link](https://www.websequencediagrams.com/cgi-bin/cdraw?lz=bm90ZSBvdmVyIGJyb3dzZXI6ClVzZXIgaW5wdXRzIHNvbWUgdGV4dCBpbnRvIHRoZSBmb3JtCnRocm91Z2gADAUAGgVib3ggYW5kIGNsaWNrcyB0aGUKJ1NhdmUnIGJ1dHRvbiB0byBzdWJtaXQAOwplbmQgbm90ZQoAchNUaGUgbmV3ABsFIGlzIGNyZWF0ZWQgAG0MCkphdmFTY3JpcHQgZXZlbnQgaGFuZGxlcgCBBQVwdXNoZWQgb250byAKdGhlIGV4aXN0aW5nIGxpc3Qgb2YAdwVzAIExBXJlbmRlcnMAIgYAEQZ0byBkaXNwbGF5IACBcgd1c2VyAIEqCgCCKActPnNlcnZlcjogSFRUUCBQT1NUIGh0dHBzOi8vc3R1ZGllcy5jcy5oZWxzaW5raS5maS9leGFtcGxlYXBwL25ld19ub3RlX3NwYQoAQwYtLT4AgwIIIEpTT04gcmVzcG9uc2Uge21lc3NhZ2U6ICIAgzEFAIIMByJ9CgoK&s=default)
