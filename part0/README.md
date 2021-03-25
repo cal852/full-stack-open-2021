@@ -1,14 +1,18 @@
 # part0
 
+Ref: https://fullstackopen.com/en/part0/fundamentals_of_web_apps
+
 ## Task list
 
 Sequence diagrams are made through https://www.websequencediagrams.com/
 
-*Reading assignment
+Completion Time: *1.5 hours*
 
-- [x] Exercise 0.1: HTML*
-- [x] Exercise 0.2: CSS*
-- [x] Exercise 0.3: HTML forms*
+(*) Reading assignment
+
+- [x] Exercise 0.1: HTML(*)
+- [x] Exercise 0.2: CSS(*)
+- [x] Exercise 0.3: HTML forms(*)
 - [x] Exercise 0.4: new note
 
   ![exercise0.4](exercise0-4.png)
